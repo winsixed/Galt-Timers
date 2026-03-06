@@ -69,4 +69,4 @@ npm run build
 
 ## Лицензия
 
-Private.
+MIT © [winsixed](https://t.me/winsixed)
